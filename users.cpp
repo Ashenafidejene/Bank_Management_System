@@ -1,6 +1,6 @@
 #include "BMSLib.h"
 
-
+//comment
 void registerAccount()
 {
 	AccountHolder user;
